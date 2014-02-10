@@ -1,0 +1,15 @@
+*{
+	margin: 0px auto;
+	font-family: Arial; 
+	margin-left: 20px;
+	font-size: 18px; 
+}
+#weatherheadline{
+	margin-bottom: 30px; 
+	margin-top: 60px; 
+	font-size: 25px; 
+
+}
+#form{
+	margin-bottom: 10px; 
+}
